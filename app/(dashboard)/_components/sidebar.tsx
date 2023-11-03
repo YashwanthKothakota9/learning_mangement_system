@@ -6,7 +6,7 @@ const Sidebar = () => {
     <div className="h-full border-r flex flex-col overflow-y-auto bg-white shadow-sm">
       <div className="p-6 flex gap-2 items-center justify-center">
         <Logo />
-        <p className="text-2xl font-bold text-green-700 uppercase italic">
+        <p className="text-2xl font-bold text-blue-700 uppercase italic">
           Coursely
         </p>
       </div>
