@@ -2,6 +2,7 @@ import { auth } from "@clerk/nextjs";
 import { columns } from "./_components/columns";
 import { DataTable } from "./_components/data-table";
 import { redirect } from "next/navigation";
+import prisma from "@/lib/db";
 
 const CoursesPage = async () => {
   const { userId } = auth();
