@@ -1,3 +1,4 @@
+import prisma from "@/lib/db";
 import { auth } from "@clerk/nextjs";
 import { Chapter } from "@prisma/client";
 import { NextResponse } from "next/server";
