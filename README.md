@@ -1,34 +1,26 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align='center' font='bold'>Coursely.com (learning management system)</p>
+<p align='center'>The learning management system like Udemy with a simple UI.</p>
 
-## Getting Started
+## Demo
 
-First, run the development server:
+<img width="300" alt="Screenshot 2023-11-07 at 11 51 05 AM" src="https://github.com/YashwanthKothakota9/learning_mangement_system/assets/97182453/579436dd-8271-4b98-be56-59f2a95e220c">
+<img width="300" alt="Screenshot 2023-11-07 at 11 51 49 AM" src="https://github.com/YashwanthKothakota9/learning_mangement_system/assets/97182453/3cf25dd2-c635-4402-b15a-e4c1ecd3d26e">
+<img width="300" alt="Screenshot 2023-11-07 at 11 52 16 AM" src="https://github.com/YashwanthKothakota9/learning_mangement_system/assets/97182453/5405f7ac-4f11-4668-a25d-b1c302f3498d">
+<img width="300" alt="Screenshot 2023-11-07 at 11 52 43 AM" src="https://github.com/YashwanthKothakota9/learning_mangement_system/assets/97182453/13bb659f-11c8-4ec5-8e8a-72109b4cb9be">
+<img width="300" alt="Screenshot 2023-11-07 at 11 59 09 AM" src="https://github.com/YashwanthKothakota9/learning_mangement_system/assets/97182453/2d6acfdb-3f09-4c08-a6f6-4d22e5a2a560">
+<img width="300" alt="Screenshot 2023-11-07 at 11 56 51 AM" src="https://github.com/YashwanthKothakota9/learning_mangement_system/assets/97182453/487dccfb-8eb2-4957-85bd-5b883d36f37e">
+<img width="300" alt="Screenshot 2023-11-07 at 11 54 18 AM" src="https://github.com/YashwanthKothakota9/learning_mangement_system/assets/97182453/b58d3125-07e1-4294-ae33-f607ae66f679">
+<img width="300" alt="Screenshot 2023-11-07 at 11 53 47 AM" src="https://github.com/YashwanthKothakota9/learning_mangement_system/assets/97182453/58121eae-a442-4737-bfee-28e61d871246">
+<img width="300" alt="Screenshot 2023-11-07 at 11 53 18 AM" src="https://github.com/YashwanthKothakota9/learning_mangement_system/assets/97182453/f4e77a56-eabd-4946-933f-dea3b7433c78">
+<img width="300" alt="Screenshot 2023-11-07 at 11 52 57 AM" src="https://github.com/YashwanthKothakota9/learning_mangement_system/assets/97182453/d394aac8-b920-4317-971a-0d5491696b5b">
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Built with
+* [Next.js 14](https://nextjs.org/)
+* [Tailwindcss](https://tailwindcss.com/)
+* [Shadcn UI](https://ui.shadcn.com/)
+* [Clerk](https://clerk.com/)
+* [PlanetScale](https://planetscale.com/)
+* [Prisma](https://www.prisma.io/)
+* [Uploadthing](https://uploadthing.com/)
+* [Stripe](https://stripe.com/in)
+* [Vercel - for deployment](https://vercel.com)
